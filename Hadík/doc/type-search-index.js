@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"sk.okno","l":"Hrac"},{"p":"sk.okno","l":"KlavesovyPosluchac"},{"p":"sk.okno","l":"Melodie"},{"p":"sk.okno","l":"OknoAplikacie"},{"p":"sk.okno","l":"OknoPosluchac"},{"p":"sk.okno","l":"PanelHry"},{"p":"sk.okno","l":"Statistiky"}]
